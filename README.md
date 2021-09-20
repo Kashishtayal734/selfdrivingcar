@@ -1,5 +1,5 @@
 # Udemy-Self-Driving-Cars
-Code of Udemy The Complete Self-Driving Car Course
+Code  Self-Driving Car Simulation
 
 * Use OpenCV to identify lane lines for a self-driving car.
 
